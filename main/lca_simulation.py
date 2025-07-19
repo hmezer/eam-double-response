@@ -1,3 +1,5 @@
+import numpy as np
+
 def lca_simulation(
     v_0,     # Drift rate for accumulator 0 (single float)
     v_1,     # Drift rate for accumulator 1 (single float)
