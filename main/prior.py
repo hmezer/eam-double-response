@@ -1,3 +1,5 @@
+import numpy as np
+
 def sample_lca_prior():
     """
     Generates a single random draw from the joint prior distribution for LCA parameters.
